@@ -9,3 +9,5 @@ function my_copyright( $startyear ) {
 	echo ' ' . get_bloginfo( 'name' );
 	echo 'All Right Reserved.';
 }
+
+// my_copyright( year_num );
